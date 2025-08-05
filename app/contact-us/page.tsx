@@ -14,8 +14,7 @@ const ContactUs = () => {
           always available to speak about our organization and the host event.
         </p>
         <p className='mt-6 text-center'>
-          Address - 5609 Old Court Road, Windsor Mill, Baltimore, <br />
-          MD 21244 - 1146, USA <br />
+          Address - Governor Nelson A Rockefeller Empire State Plaza, Albany, New York, USA, South Mall. <br />
           Tel :+1- (770) 824-8695 Fax +1 (844) 381-2123 <br />
           E-mail: info@ihraa.org
         </p>
